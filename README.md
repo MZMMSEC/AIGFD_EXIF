@@ -6,7 +6,7 @@ This repository contains the official PyTorch implementation of the paper **"Sel
 ### TODO
 We are working hard on the following items.
 
-- [ ] Release [arXiv paper]()
+- [x] Release [arXiv paper](https://arxiv.org/abs/2501.02207)
 - [ ] Release training codes
 - [ ] Release inference codes
 - [ ] Release checkpoints 
