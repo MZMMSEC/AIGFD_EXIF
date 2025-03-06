@@ -1,5 +1,5 @@
 # Self-Supervised Learning for Detecting AI-Generated Faces as Anomalies
-This repository contains the official PyTorch implementation of the paper **"Self-Supervised Learning for Detecting AI-Generated Faces as Anomalies"** by Mian Zou, Baosheng Yu, Yibing Zhan, and Kede Ma, in *ICASSP*, 2025.
+This repository contains the official PyTorch implementation of the paper **"Self-Supervised Learning for Detecting AI-Generated Faces as Anomalies"** by Mian Zou, Baosheng Yu, Yibing Zhan, and Kede Ma.
 
 ☀️ If you find this work useful for your research, please kindly star our repo and cite our paper! ☀️
 
@@ -20,10 +20,10 @@ In this paper, we describe an anomaly detection method for AI-generated faces by
 ## Citation
 If you find this repository useful in your research, please consider citing the following paper:
 ```
-@inproceedings{zou2025self,
-    title={Self-Supervised Learning for Detecting AI-Generated Faces as Anomalies},
-    author={Mian Zou and Baosheng Yu and Yibing Zhan and Kede Ma},
-    booktitle={ICASSP},
-    year={2025}
+@article{zou2025self,
+  title={Self-Supervised Learning for Detecting AI-Generated Faces as Anomalies},
+  author={Zou, Mian and Yu, Baosheng and Zhan, Yibing and Ma, Kede},
+  journal={arXiv preprint arXiv:2501.02207},
+  year={2025}
 }
 ```
