@@ -66,7 +66,8 @@ data
 ├── stable_diffusion_v_2_1_text2img_p2g3
 ├── stylegan2
 ├── VQ-GAN_celebahq
-
+├── train.txt
+├── test.txt
 ```
 
 ## 🚀 Quick Start
