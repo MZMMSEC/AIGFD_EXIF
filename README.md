@@ -21,7 +21,7 @@ In this paper, we describe an anomaly detection method for AI-generated faces by
 
 | Dataset |                                                 Link                                                 |      |
 |:-------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|
-|FDF| [GitHub](https://github.com/hukkelas/FDF) |⬜|
+|FDF| [GitHub](https://github.com/hukkelas/FDF) |✅|
 |FDF_Artifical_Manipulations| [Baidu Disk]() |⬜|
 |Test Sets| [Baidu Disk]() | ✅ |
 
@@ -48,6 +48,12 @@ SSL_training_data
 │   │   │   │   ├──...
 
 ```
+### Related Files
+|  |                                                 Link                                                 |      |
+|:-------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|
+|fdf_ccby2_exif_update_filtered_v2| [GitHub](https://github.com/hukkelas/FDF) |✅|
+|FDF_Artifical_Manipulations| [Baidu Disk]() |⬜|
+|Test Sets| [Baidu Disk]() | ✅ |
 
 For the test sets we used in the main experiments, we collected them from [DiffusionFace](https://github.com/Rapisurazurite/DiffFace) and [DiFF](https://github.com/xaCheng1996/DiFF), and put them together for testing. If you find them useful, please cite these two papers.
 During testing, please put the dataset in the ``data`` folder, and the data structure is as follows:
