@@ -19,11 +19,13 @@ In this paper, we describe an anomaly detection method for AI-generated faces by
 
 ## 📁 Datasets
 
-| Dataset |                                                 Link                                                 |      |
+| Dataset & Material |                                                 Link                                                 |      |
 |:-------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|
 |FDF| [GitHub](https://github.com/hukkelas/FDF) |✅|
 |FDF_Artifical_Manipulations| [Baidu Disk]() |⬜|
-|Test Sets| [Baidu Disk]() | ✅ |
+|Test Sets| [Baidu Disk](https://pan.baidu.com/s/16m7LdvA8sOGug7iwxp6Riw?pwd=mbnb)| ✅ |
+|fdf_ccby2_exif_update_filtered_v2| [Baidu Disk](https://pan.baidu.com/s/16m7LdvA8sOGug7iwxp6Riw?pwd=mbnb) |⬜|
+|id_vs_fdfName.pkl| [Baidu Disk](https://pan.baidu.com/s/16m7LdvA8sOGug7iwxp6Riw?pwd=mbnb) |⬜|
 
 We use FDF (CC BY-NC-SA 2.0 version) for self-supervised training, and you can download it from the original project page. We also provide the augmented FDF by the proposed artificial face manipulations. After downloading all the necessary files, please put them into the ``SSL_training_data`` folder, with the data structure as follows:
 ```
@@ -48,12 +50,7 @@ SSL_training_data
 │   │   │   │   ├──...
 
 ```
-### Related Files
-|  |                                                 Link                                                 |      |
-|:-------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|
-|fdf_ccby2_exif_update_filtered_v2| [GitHub](https://github.com/hukkelas/FDF) |✅|
-|FDF_Artifical_Manipulations| [Baidu Disk]() |⬜|
-|Test Sets| [Baidu Disk]() | ✅ |
+
 
 For the test sets we used in the main experiments, we collected them from [DiffusionFace](https://github.com/Rapisurazurite/DiffFace) and [DiFF](https://github.com/xaCheng1996/DiFF), and put them together for testing. If you find them useful, please cite these two papers.
 During testing, please put the dataset in the ``data`` folder, and the data structure is as follows:
