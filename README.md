@@ -19,11 +19,11 @@ In this paper, we describe an anomaly detection method for AI-generated faces by
 
 ## 📁 Datasets
 
-| Dataset |                                                 Link                                                 |
-|:-------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|
-|FDF| [GitHub](https://github.com/hukkelas/FDF) |
-|FDF_Artifical_Manipulations| [Baidu Disk]() |
-|Test Sets| [Baidu Disk]() |
+| Dataset |                                                 Link                                                 |      |
+|:-------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|
+|FDF| [GitHub](https://github.com/hukkelas/FDF) |⬜|
+|FDF_Artifical_Manipulations| [Baidu Disk]() |⬜|
+|Test Sets| [Baidu Disk]() | ✅ |
 
 We use FDF (CC BY-NC-SA 2.0 version) for self-supervised training, and you can download it from the original project page. We also provide the augmented FDF by the proposed artificial face manipulations. After downloading all the necessary files, please put them into the ``SSL_training_data`` folder, with the data structure as follows:
 ```
