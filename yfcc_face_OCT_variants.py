@@ -136,6 +136,7 @@ def extract_testing_features(model, real_tag='celeba', save_dir='', plot_tsne=Fa
 
 
 # ------------- 2. train GMM and test ---------------
+# ------------ GMM fit may take 10-12 mins ----------
 from sklearn.mixture import GaussianMixture
 import pickle, time
 from sklearn.metrics import roc_auc_score, average_precision_score
