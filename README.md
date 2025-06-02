@@ -102,6 +102,9 @@ CUDA_VISIBLE_DEVICES=XXX python train_fidelityCLS.py --batch_size 256 --lr 1e-5
 --name [project_name] 
 ```
 
+## 📜 License 
+This project is released for **academic and research purposes only**, and is released under the [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/) license.
+
 
 ## Citation
 If you find this repository useful in your research, please consider citing the following paper:
