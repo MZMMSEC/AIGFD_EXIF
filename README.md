@@ -3,6 +3,8 @@ This repository contains the official PyTorch implementation of the paper **"Sel
 
 ☀️ If you find this work useful for your research, please kindly star our repo and cite our paper! :blush:
 
+⭐️Our series work: [BLADES (ICCV'25 Highlight)](https://github.com/MZMMSEC/AIGFD_BLO)
+
 ### TODO
 We are working hard on the following items.
 
