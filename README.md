@@ -24,7 +24,7 @@ In this paper, we describe an anomaly detection method for AI-generated faces by
 | Dataset & Material |                                                 Link                                                 |      |
 |:-------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|
 |FDF| [GitHub](https://github.com/hukkelas/FDF) |✅|
-|FDF_Artifical_Manipulations| [Baidu Disk]() |⬜|
+|FDF_Artifical_Manipulations| [Baidu Disk](https://pan.baidu.com/s/1tfQ9aXRDEHW91Fg5luGRmw?pwd=mbnb) |✅ |
 |Test Sets| [Baidu Disk](https://pan.baidu.com/s/16m7LdvA8sOGug7iwxp6Riw?pwd=mbnb)| ✅ |
 |fdf_ccby2_exif_update_filtered_v2| [Baidu Disk](https://pan.baidu.com/s/1l38Xxy08XNw0gtDoeGhvqw?pwd=mbnb) |✅|
 |id_vs_fdfName.pkl| [Baidu Disk](https://pan.baidu.com/s/1l38Xxy08XNw0gtDoeGhvqw?pwd=mbnb) |✅|
